@@ -1,0 +1,4 @@
+nev;hossz(km);korok;rekord
+Hungaroring;4,381;70;1:13.447
+Barcelona;4,657;66;1:16.330
+Monza;5,793;53;1:41.745

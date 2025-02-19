@@ -1,0 +1,100 @@
+2023;Bahrain;1;1;Max Verstappen;Redbull;303.7;Igen;Redbull1
+2023;Bahrain;2;11;Sergio Perez;Redbull;330.1;Igen;Redbull2
+2023;Bahrain;3;14;Fernando Alonso;Aston Martin;328.2;Igen;AstonMartin1
+2023;Bahrain;4;55;Carlos Sainz;Ferrari;324.8;Igen;Ferrari2
+2023;Bahrain;5;44;Lewis Hamilton;Mercedes;333.4;Igen;Mercedes1
+2023;Bahrain;6;18;Lance Stroll;Aston Martin;324.2;Igen;AstonMartin2
+2023;Bahrain;7;63;George Russel;Mercedes;325.3;Igen;Mercedes2
+2023;Bahrain;8;77;Valtteri Bottas;Alfa Romeo;320.4;Igen;AlfaRomeo1
+2023;Bahrain;9;10;Pierre Gasly;Alpine;327.8;Igen;Alpine2
+2023;Bahrain;10;23;Alexander Albon;Williams;324.3;Igen;Williams1
+2023;Bahrain;11;22;Yuki Tsunoda;Alphatauri;323.3;Igen;Alphatauri1
+2023;Bahrain;12;2;Logan Sargeant;Williams;328.0;Igen;Williams2
+2023;Bahrain;13;20;Kevin Magnussen;Haas;315.7;Igen;Haas2
+2023;Bahrain;14;21;Nyck De Vries;Alphatauri;320.0;Igen;Alphatauri2
+2023;Bahrain;15;27;Nico Hulkenberg;Haas;328.0;Igen;Haas1
+2023;Bahrain;16;24;Zhou Guanyu;Alfa Romeo;327.3;Igen;AlfaRomeo2
+2023;Bahrain;17;4;Lando Norris;Mclaren;325.8;Igen;Mclaren1
+2023;Bahrain;18;31;Esteban Ocon;Alpine;329.3;Nem;Alpine1
+2023;Bahrain;19;16;Charles Leclerc;Ferrari;324.0;Nem;Ferrari1
+2023;Bahrain;20;81;Oscar Piastri;Mclaren;327.0;Nem;Mclaren2
+2023;Hungaroring;1;1;Max Verstappen;Redbull;306.4;Igen;Redbull1
+2023;Hungaroring;2;4;Lando Norris;Mclaren;305.1;Igen;Mclaren1
+2023;Hungaroring;3;11;Sergio Perez;Redbull;313.3;Igen;Redbull2
+2023;Hungaroring;4;44;Lewis Hamilton;Mercedes;311.1;Igen;Mercedes1
+2023;Hungaroring;5;81;Oscar Piastri;Mclaren;304.9;Igen;Mclaren2
+2023;Hungaroring;6;63;George Russel;Mercedes;308.8;Igen;Mercedes2
+2023;Hungaroring;7;16;Charles Leclerc;Ferrari;310.3;Igen;Ferrari1
+2023;Hungaroring;8;55;Carlos Sainz;Ferrari;307.1;Igen;Ferrari2
+2023;Hungaroring;9;14;Fernando Alonso;Aston Martin;307.3;Igen;AstonMartin1
+2023;Hungaroring;10;18;Lance Stroll;Aston Martin;309.0;Igen;AstonMartin2
+2023;Hungaroring;11;23;Alexander Albon;Williams;311.0;Igen;Williams1
+2023;Hungaroring;12;77;Valtteri Bottas;Alfa Romeo;309.2;Igen;AlfaRomeo1
+2023;Hungaroring;13;3;Daniel Ricciardo;Alphatauri;306.2;Igen;Alphatauri2
+2023;Hungaroring;14;27;Nico Hulkenberg;Haas;309.1;Igen;Haas1
+2023;Hungaroring;15;22;Yuki Tsunoda;Alphatauri;309.4;Igen;Alphatauri1
+2023;Hungaroring;16;24;Zhou Guanyu;Alfa Romeo;309.2;Igen;AlfaRomeo2
+2023;Hungaroring;17;20;Kevin Magnussen;Haas;310.3;Igen;Haas2
+2023;Hungaroring;18;2;Logan Sargeant;Williams;311.2;Igen;Williams2
+2023;Hungaroring;19;31;Esteban Ocon;Alpine;275.2;Nem;Alpine1
+2023;Hungaroring;20;10;Pierre Gasly;Alpine;262.5;Nem;Alpine2
+2023;Suzuka;1;1;Max Verstappen;Redbull;302.6;Igen;Redbull1
+2023;Suzuka;2;4;Lando Norris;Mclaren;303.9;Igen;Mclaren1
+2023;Suzuka;3;81;Oscar Piastri;Mclaren;312.5;Igen;Mclaren2
+2023;Suzuka;4;16;Charles Leclerc;Ferrari;308.3;Igen;Ferrari1
+2023;Suzuka;5;44;Lewis Hamilton;Mercedes;305.3;Igen;Mercedes1
+2023;Suzuka;6;55;Carlos Sainz;Ferrari;311.1;Igen;Ferrari2
+2023;Suzuka;7;63;George Russel;Mercedes;303.7;Igen;Mercedes2
+2023;Suzuka;8;14;Fernando Alonso;Aston Martin;304.2;Igen;AstonMartin1
+2023;Suzuka;9;31;Esteban Ocon;Alpine;307.2;Igen;Alpine1
+2023;Suzuka;10;10;Pierre Gasly;Alpine;308.8;Igen;Alpine2
+2023;Suzuka;11;40;Liam Lawson;Alphatauri;302.8;Igen;Alphatauri2
+2023;Suzuka;12;22;Yuki Tsunoda;Alphatauri;301.8;Igen;Alphatauri1
+2023;Suzuka;13;24;Zhou Guanyu;Alfa Romeo;302.0;Igen;AlfaRomeo2
+2023;Suzuka;14;27;Nico Hulkenberg;Haas;305.3;Igen;Haas1
+2023;Suzuka;15;20;Kevin Magnussen;Haas;304.5;Igen;Haas2
+2023;Suzuka;16;23;Alexander Albon;Williams;294.5;Nem;Williams1
+2023;Suzuka;17;2;Logan Sargeant;Williams;304.3;Nem;Williams2
+2023;Suzuka;18;18;Lance Stroll;Aston Martin;308.3;Nem;AstonMartin2
+2023;Suzuka;19;11;Sergio Perez;Redbull;309.4;Nem;Redbull2
+2023;Suzuka;20;77;Valtteri Bottas;Alfa Romeo;252.0;Nem;AlfaRomeo1
+2022;Imola;1;1;Max Verstappen;Redbull;295.4;Igen;Redbull1
+2022;Imola;2;11;Sergio Perez;Redbull;296.7;Igen;Redbull2
+2022;Imola;3;4;Lando Norris;Mclaren;288.3;Igen;Mclaren1
+2022;Imola;4;63;George Russel;Mercedes;291.3;Igen;Mercedes2
+2022;Imola;5;77;Valtteri Bottas;Alfa Romeo;294.4;Igen;AlfaRomeo1
+2022;Imola;6;16;Charles Leclerc;Ferrari;293.0;Igen;Ferrari1
+2022;Imola;7;22;Yuki Tsunoda;Alphatauri;291.8;Igen;Alphatauri2
+2022;Imola;8;5;Sebastian Vettel;Aston Martin;287.6;Igen;AstonMartin1
+2022;Imola;9;20;Kevin Magnussen;Haas;285.7;Igen;Haas1
+2022;Imola;10;18;Lance Stroll;Aston Martin;286.5;Igen;AstonMartin2
+2022;Imola;11;23;Alexander Albon;Williams;297.9;Igen;Williams1
+2022;Imola;12;10;Pierre Gasly;Alphatauri;293.6;Igen;Alphatauri1
+2022;Imola;13;44;Lewis Hamilton;Mercedes;290.9;Igen;Mercedes1
+2022;Imola;14;31;Esteban Ocon;Alpine;290.7;Igen;Alpine2
+2022;Imola;15;24;Zhou Guanyu;Alfa Romeo;288.4;Igen;AlfaRomeo2
+2022;Imola;16;6;Nicholas Latifi;Williams;296.9;Igen;Williams2
+2022;Imola;17;47;Mick Schumacher;Haas;291.0;Igen;Haas2
+2022;Imola;18;3;Daniel Ricciardo;Mclaren;285.7;Igen;Mclaren2
+2022;Imola;19;14;Fernando Alonso;Alpine;231.6;Nem;Alpine1
+2022;Imola;20;55;Carlos Sainz;Ferrari;0.0;Nem;Ferrari2
+2022;Singapore;1;11;Sergio Perez;Redbull;287.4;Igen;Redbull2
+2022;Singapore;2;16;Charles Leclerc;Ferrari;296.3;Igen;Ferrari1
+2022;Singapore;3;55;Carlos Sainz;Ferrari;285.0;Igen;Ferrari2
+2022;Singapore;4;4;Lando Norris;Mclaren;294.0;Igen;Mclaren1
+2022;Singapore;5;3;Daniel Ricciardo;Mclaren;283.8;Igen;Mclaren2
+2022;Singapore;6;18;Lance Stroll;Aston Martin;296.6;Igen;AstonMartin2
+2022;Singapore;7;1;Max Verstappen;Redbull;304.2;Igen;Redbull1
+2022;Singapore;8;5;Sebastian Vettel;Aston Martin;286.2;Igen;AstonMartin1
+2022;Singapore;9;44;Lewis Hamilton;Mercedes;297.5;Igen;Mercedes1
+2022;Singapore;10;10;Pierre Gasly;Alphatauri;297.0;Igen;Alphatauri1
+2022;Singapore;11;77;Valtteri Bottas;Alfa Romeo;294.1;Igen;AlfaRomeo1
+2022;Singapore;12;20;Kevin Magnussen;Haas;285.0;Igen;Haas1
+2022;Singapore;13;47;Mick Schumacher;Haas;296.3;Igen;Haas2
+2022;Singapore;14;63;George Russel;Mercedes;297.1;Igen;Mercedes2
+2022;Singapore;15;22;Yuki Tsunoda;Alphatauri;280.0;Nem;Alphatauri2
+2022;Singapore;16;31;Esteban Ocon;Alpine;280.5;Nem;Alpine2
+2022;Singapore;17;23;Alexander Albon;Williams;284.6;Nem;Williams1
+2022;Singapore;18;14;Fernando Alonso;Alpine;276.1;Nem;Alpine1
+2022;Singapore;19;6;Nicholas Latifi;Williams;280.8;Nem;Williams2
+2022;Singapore;20;24;Zhou Guanyu;Alfa Romeo;278.6;Nem;AlfaRomeo2

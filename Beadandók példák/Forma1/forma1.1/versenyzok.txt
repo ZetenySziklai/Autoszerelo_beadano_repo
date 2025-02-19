@@ -1,0 +1,25 @@
+Max Verstappen;Hollandia;26;3;54
+Sergio Perez;Mexikó;33;0;6
+Lewis Hamilton;Anglia;39;7;103
+Fernando Alonso;Spanyolország;42;2;32
+Charles Leclerc;Monaco;26;0;5
+Lando Norris;Anglia;24;0;0
+Carlos Sainz;Spanyolország;29;0;2
+George Russel;Anglia;25;0;1
+Oscar Piastri;Ausztrália;22;0;0
+Lance Stroll;Kanada;25;0;0
+Pierre Gasly;Franciaország;27;0;1
+Esteban Ocon;Franciaország;27;0;1
+Alexander Albon;Thaiföld;27;0;0
+Yuki Tsunoda;Japán;23;0;0
+Valtteri Bottas;Finnország;34;0;10
+Nico Hulkenberg;Németország;36;0;0
+Daniel Ricciardo;Ausztrália;34;0;8
+Zhou Guanyu;Kína;24;0;0
+Kevin Magnussen;Dánia;31;0;0
+Liam Lawson;Ausztrália;21;0;0
+Logan Sargeant;Amerika;23;0;0
+Nyck De Vries;Hollandia;28;0;0
+Sebastian Vettel;Németország;36;4;53
+Mick Schumacher;Németország;24;0;0
+Nicholas Latifi;Kanada;28;0;0

@@ -1,0 +1,21 @@
+nev;kor;magassag(cm);maxsebesseg;atlagsebesseg;helyezes;befejezte-e
+Max Verstappen;26;186;
+Sergio Perez;33;180
+Charles Leclerc;26;177
+Carlos Saintz;29;181
+Lewis Hamilton;38;179
+George Russel;25;187
+Lando Norris;24;178
+Oscar Piastri;22;180
+Fernando Alonso;42;178
+Lance Stroll;25;173
+Yuki Tsunoda;23;165
+Daniel Ricciardo;34;181
+Valteri Bottas;34;177
+Zhou Guanyu;24;169
+Kevin Magnussen;36;182
+Nico Hulkenberg;31;180
+Alexander Albon;27;187
+Logan Sargent;23;180
+Esteban Ocon;27;189
+Pierre Gasly;27;179

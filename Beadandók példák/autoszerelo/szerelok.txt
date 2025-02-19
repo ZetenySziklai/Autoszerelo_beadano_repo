@@ -1,0 +1,26 @@
+Nap,Szerelő,Munkakör,1,2,3,4,5,6,7,8,9,10
+Hétfő,Hab Zsolt,Olajcsere,1,0,1,1,1,0,0,1,0,1
+Kedd,Hab Zsolt,Olajcsere,0,1,0,0,0,1,1,1,0,1
+Szerda,Hab Zsolt,Olajcsere,1,0,0,1,0,0,0,1,0,1
+Csütörtök,Hab Zsolt,Olajcsere,0,0,0,0,0,1,0,1,0,1
+Péntek,Hab Zsolt,Olajcsere,1,1,0,1,0,1,1,1,0,1
+Hétfő,Bármi Áron,futómű,1,0,1,1,1,0,0,1,0,1
+Kedd,Bármi Áron,futómű,0,1,0,0,0,1,1,1,0,1
+Szerda,Bármi Áron,futómű,1,0,0,1,0,0,0,1,0,1
+Csütörtök,Bármi Áron,futómű,0,0,0,0,0,1,0,1,0,1
+Péntek,Bármi Áron,futómű,1,1,0,1,0,1,1,1,0,1
+Hétfő,Bekő Tóni,elektronika,1,0,1,1,1,0,0,1,0,1
+Kedd,Bekő Tóni,elektronika,0,1,0,0,0,1,1,1,0,1
+Szerda,Bekő Tóni,elektronika,1,0,0,1,0,0,0,1,0,1
+Csütörtök,Bekő Tóni,elektronika,0,0,0,0,0,1,0,1,0,1
+Péntek,Bekő Tóni,elektronika,1,1,0,1,0,1,1,1,0,1
+Hétfő,Behány Leokádia,kerékcsere,1,0,1,1,1,0,0,1,0,1
+Kedd,Behány Leokádia,kerékcsere,0,1,0,0,0,1,1,1,0,1
+Szerda,Behány Leokádia,kerékcsere,1,0,0,1,0,0,0,1,0,1
+Csütörtök,Behány Leokádia,kerékcsere,0,0,0,0,0,1,0,1,0,1
+Péntek,Behány Leokádia,kerékcsere,1,1,0,1,0,1,1,1,0,1
+Hétfő,Hajléktalan Szent Bertalan,Olajcsere,1,0,1,1,1,0,0,1,0,1
+Kedd,Hajléktalan Szent Bertalan,Olajcsere,0,1,0,0,0,1,1,1,0,1
+Szerda,Hajléktalan Szent Bertalan,Olajcsere,1,0,0,1,0,0,1,1,0,1
+Csütörtök,Hajléktalan Szent Bertalan,Olajcsere,0,0,0,0,0,1,0,1,0,1
+Péntek,Hajléktalan Szent Bertalan,Olajcsere,1,1,0,1,0,1,1,1,0,1

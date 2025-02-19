@@ -1,0 +1,11 @@
+nev;auto;versenyzok
+Redbull;RB19;Max Verstappen;Sergio Perez
+Ferrari;SF-23;Charles Leclerc;Carlos Saintz
+Mercedes;W14;Lewis Hamilton;George Russel
+Mclaren;MCL60;Lando Norris;Oscar Piastri
+Aston Martin;AMR23;Fernando Alonso;Lance Stroll
+Alpha Tauri;AT04;Yuki Tsunoda;Daniel Ricciardo
+Alfa Romeo;C43;Valteri Bottas;Zhou Guanyu
+Hass;VF-23;Kevin Magnussen;Nico Hulkenberg
+Williams;FW45;Alexander Albon;Logan Sargent
+Alpine;A523;Esteban Ocon;Pierre Gasly

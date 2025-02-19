@@ -1,0 +1,11 @@
+Csapat;Azonosito;loero;csucssebesseg;urtaltalom;javitas alatt
+Redbull;RB19;1050;376;1600;False
+Ferrari;SF-23;1030;369;1600;False
+Mercedes;W14;1015;359;1600;False
+Mclaren;MCL60;1015;361;1600;False
+Aston Martin;AMR23;1030;370;1600;False
+Alpha Tauri;AT04;1050;369;1600;False
+Alfa Romeo;C43;1030;365;1600;False
+Hass;VF-23;1030;362;1600;False
+Williams;FW45;1015;370;1600;False
+Alpine;A523;1015;365;1600;False

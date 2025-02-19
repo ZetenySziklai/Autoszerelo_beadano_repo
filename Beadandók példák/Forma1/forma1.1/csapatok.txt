@@ -1,0 +1,20 @@
+Redbull;2023;860;Max Verstappen;Sergio Perez;6;113;95
+Redbull;2022;759;Max Verstappen;Sergio Perez;5;92;81
+Mercedes;2023;409;Lewis Hamilton;George Russel;8;116;129
+Mercedes;2022;515;Lewis Hamilton;George Russel;8;116;128
+Ferrari;2023;406;Charles Leclerc;Carlos Sainz;16;244;249
+Ferrari;2022;554;Charles Leclerc;Carlos Sainz;16;243;242
+Mclaren;2023;302;Lando Norris;Oscar Piastri;8;158;156
+Mclaren;2022;159;Lando Norris;Daniel Ricciardo;8;158;156
+Aston Martin;2023;280;Fernando Alonso;Lance Stroll;0;1;1
+Aston Martin;2022;55;Sebastian Vettel;Lance Stroll;0;1;1
+Alpine;2023;120;Esteban Ocon;Pierre Gasly;2;21;20
+Alpine;2022;173;Fernando Alonso;Esteban Ocon;2;21;20
+Williams;2023;28;Alexander Albon;Logan Sargeant;9;114;128
+Williams;2022;8;Alexander Albon;Nicholas Latifi;9;114;128
+Alphatauri;2023;25;Yuki Tsunoda;Daniel Ricciardo;0;2;1
+Alphatauri;2022;35;Pierre Gasly;Yuki Tsunoda;0;2;1
+Alfa Romeo;2023;16;Valtteri Bottas;Zhou Guanyu;0;1;1
+Alfa Romeo;2022;55;Valtteri Bottas;Zhou Guanyu;0;1;1
+Haas;2023;12;Nico Hulkenberg;Kevin Magnussen;0;0;1
+Haas;2022;37;Kevin Magnussen;Mick Schumacher;0;0;1
