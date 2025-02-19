@@ -1,0 +1,7 @@
+git init
+
+git checkout -b main
+
+git remote add origin https://github.com/ZetenySziklai/Autoszerelo_beadano_repo.git
+
+git pull origin main
