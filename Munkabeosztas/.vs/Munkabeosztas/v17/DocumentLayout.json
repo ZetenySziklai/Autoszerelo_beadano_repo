@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Z\u00E9t\u00E9nyM\u00E1t\u00E9Beadand\u00F3Megintxddd!!\\Munkabeosztas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7029DE0-02D8-43D3-B70F-4EDAD3B52809}|Munkabeosztas\\Munkabeosztas.csproj|h:\\z\u00E9t\u00E9nym\u00E1t\u00E9beadand\u00F3megintxddd!!\\munkabeosztas\\munkabeosztas\\munkatabla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7029DE0-02D8-43D3-B70F-4EDAD3B52809}|Munkabeosztas\\Munkabeosztas.csproj|solutionrelative:munkabeosztas\\munkatabla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7029DE0-02D8-43D3-B70F-4EDAD3B52809}|Munkabeosztas\\Munkabeosztas.csproj|h:\\z\u00E9t\u00E9nym\u00E1t\u00E9beadand\u00F3megintxddd!!\\munkabeosztas\\munkabeosztas\\munkabeosztas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7029DE0-02D8-43D3-B70F-4EDAD3B52809}|Munkabeosztas\\Munkabeosztas.csproj|solutionrelative:munkabeosztas\\munkabeosztas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Munkabeosztas.cs",
+              "DocumentMoniker": "H:\\Z\u00E9t\u00E9nyM\u00E1t\u00E9Beadand\u00F3Megintxddd!!\\Munkabeosztas\\Munkabeosztas\\Munkabeosztas.cs",
+              "RelativeDocumentMoniker": "Munkabeosztas\\Munkabeosztas.cs",
+              "ToolTip": "H:\\Z\u00E9t\u00E9nyM\u00E1t\u00E9Beadand\u00F3Megintxddd!!\\Munkabeosztas\\Munkabeosztas\\Munkabeosztas.cs",
+              "RelativeToolTip": "Munkabeosztas\\Munkabeosztas.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T12:04:20.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Munkatabla.cs",
+              "DocumentMoniker": "H:\\Z\u00E9t\u00E9nyM\u00E1t\u00E9Beadand\u00F3Megintxddd!!\\Munkabeosztas\\Munkabeosztas\\Munkatabla.cs",
+              "RelativeDocumentMoniker": "Munkabeosztas\\Munkatabla.cs",
+              "ToolTip": "H:\\Z\u00E9t\u00E9nyM\u00E1t\u00E9Beadand\u00F3Megintxddd!!\\Munkabeosztas\\Munkabeosztas\\Munkatabla.cs",
+              "RelativeToolTip": "Munkabeosztas\\Munkatabla.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T12:03:52.974Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
