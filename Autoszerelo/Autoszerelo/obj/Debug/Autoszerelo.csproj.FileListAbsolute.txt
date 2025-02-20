@@ -1,0 +1,10 @@
+H:\Autoszerelo_beadando\Autoszerelo\Autoszerelo\bin\Debug\Autoszerelo.exe.config
+H:\Autoszerelo_beadando\Autoszerelo\Autoszerelo\bin\Debug\Autoszerelo.exe
+H:\Autoszerelo_beadando\Autoszerelo\Autoszerelo\bin\Debug\Autoszerelo.pdb
+H:\Autoszerelo_beadando\Autoszerelo\Autoszerelo\obj\Debug\Autoszerelo.csproj.AssemblyReference.cache
+H:\Autoszerelo_beadando\Autoszerelo\Autoszerelo\obj\Debug\Autoszerelo.Form1.resources
+H:\Autoszerelo_beadando\Autoszerelo\Autoszerelo\obj\Debug\Autoszerelo.Properties.Resources.resources
+H:\Autoszerelo_beadando\Autoszerelo\Autoszerelo\obj\Debug\Autoszerelo.csproj.GenerateResource.cache
+H:\Autoszerelo_beadando\Autoszerelo\Autoszerelo\obj\Debug\Autoszerelo.csproj.CoreCompileInputs.cache
+H:\Autoszerelo_beadando\Autoszerelo\Autoszerelo\obj\Debug\Autoszerelo.exe
+H:\Autoszerelo_beadando\Autoszerelo\Autoszerelo\obj\Debug\Autoszerelo.pdb
