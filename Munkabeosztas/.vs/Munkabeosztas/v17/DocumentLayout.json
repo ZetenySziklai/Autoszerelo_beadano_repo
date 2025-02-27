@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "H:\\Autoszerelo_beadando\\Munkabeosztas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7029DE0-02D8-43D3-B70F-4EDAD3B52809}|Munkabeosztas\\Munkabeosztas.csproj|h:\\autoszerelo_beadando\\munkabeosztas\\munkabeosztas\\munkatabla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7029DE0-02D8-43D3-B70F-4EDAD3B52809}|Munkabeosztas\\Munkabeosztas.csproj|solutionrelative:munkabeosztas\\munkatabla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7029DE0-02D8-43D3-B70F-4EDAD3B52809}|Munkabeosztas\\Munkabeosztas.csproj|h:\\autoszerelo_beadando\\munkabeosztas\\munkabeosztas\\munkabeosztas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7029DE0-02D8-43D3-B70F-4EDAD3B52809}|Munkabeosztas\\Munkabeosztas.csproj|solutionrelative:munkabeosztas\\munkabeosztas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7029DE0-02D8-43D3-B70F-4EDAD3B52809}|Munkabeosztas\\Munkabeosztas.csproj|H:\\Autoszerelo_beadando\\Munkabeosztas\\munkabeosztas\\munkabeosztas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7029DE0-02D8-43D3-B70F-4EDAD3B52809}|Munkabeosztas\\Munkabeosztas.csproj|solutionrelative:munkabeosztas\\munkabeosztas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7029DE0-02D8-43D3-B70F-4EDAD3B52809}|Munkabeosztas\\Munkabeosztas.csproj|H:\\Autoszerelo_beadando\\Munkabeosztas\\munkabeosztas\\munkatabla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7029DE0-02D8-43D3-B70F-4EDAD3B52809}|Munkabeosztas\\Munkabeosztas.csproj|solutionrelative:munkabeosztas\\munkatabla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,36 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Munkabeosztas.cs",
               "DocumentMoniker": "H:\\Autoszerelo_beadando\\Munkabeosztas\\Munkabeosztas\\Munkabeosztas.cs",
               "RelativeDocumentMoniker": "Munkabeosztas\\Munkabeosztas.cs",
               "ToolTip": "H:\\Autoszerelo_beadando\\Munkabeosztas\\Munkabeosztas\\Munkabeosztas.cs",
               "RelativeToolTip": "Munkabeosztas\\Munkabeosztas.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T12:04:20.818Z"
+              "WhenOpened": "2025-02-20T12:04:20.818Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Munkatabla.cs",
               "DocumentMoniker": "H:\\Autoszerelo_beadando\\Munkabeosztas\\Munkabeosztas\\Munkatabla.cs",
               "RelativeDocumentMoniker": "Munkabeosztas\\Munkatabla.cs",
               "ToolTip": "H:\\Autoszerelo_beadando\\Munkabeosztas\\Munkabeosztas\\Munkatabla.cs",
               "RelativeToolTip": "Munkabeosztas\\Munkatabla.cs",
-              "ViewState": "AgIAAJgAAAAAAAAAAAAAwGsAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T12:03:52.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T12:03:52.974Z"
             }
           ]
         }

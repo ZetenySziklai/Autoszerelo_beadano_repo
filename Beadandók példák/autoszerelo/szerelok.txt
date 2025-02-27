@@ -1,26 +1,27 @@
 Nap,Szerelő,Munkakör,1,2,3,4,5,6,7,8,9,10
-Hétfő,Hab Zsolt,Olajcsere,1,0,1,1,1,0,0,1,0,1
-Kedd,Hab Zsolt,Olajcsere,0,1,0,0,0,1,1,1,0,1
-Szerda,Hab Zsolt,Olajcsere,1,0,0,1,0,0,0,1,0,1
-Csütörtök,Hab Zsolt,Olajcsere,0,0,0,0,0,1,0,1,0,1
-Péntek,Hab Zsolt,Olajcsere,1,1,0,1,0,1,1,1,0,1
-Hétfő,Bármi Áron,futómű,1,0,1,1,1,0,0,1,0,1
-Kedd,Bármi Áron,futómű,0,1,0,0,0,1,1,1,0,1
-Szerda,Bármi Áron,futómű,1,0,0,1,0,0,0,1,0,1
-Csütörtök,Bármi Áron,futómű,0,0,0,0,0,1,0,1,0,1
-Péntek,Bármi Áron,futómű,1,1,0,1,0,1,1,1,0,1
-Hétfő,Bekő Tóni,elektronika,1,0,1,1,1,0,0,1,0,1
-Kedd,Bekő Tóni,elektronika,0,1,0,0,0,1,1,1,0,1
-Szerda,Bekő Tóni,elektronika,1,0,0,1,0,0,0,1,0,1
-Csütörtök,Bekő Tóni,elektronika,0,0,0,0,0,1,0,1,0,1
-Péntek,Bekő Tóni,elektronika,1,1,0,1,0,1,1,1,0,1
-Hétfő,Behány Leokádia,kerékcsere,1,0,1,1,1,0,0,1,0,1
-Kedd,Behány Leokádia,kerékcsere,0,1,0,0,0,1,1,1,0,1
-Szerda,Behány Leokádia,kerékcsere,1,0,0,1,0,0,0,1,0,1
-Csütörtök,Behány Leokádia,kerékcsere,0,0,0,0,0,1,0,1,0,1
-Péntek,Behány Leokádia,kerékcsere,1,1,0,1,0,1,1,1,0,1
-Hétfő,Hajléktalan Szent Bertalan,Olajcsere,1,0,1,1,1,0,0,1,0,1
-Kedd,Hajléktalan Szent Bertalan,Olajcsere,0,1,0,0,0,1,1,1,0,1
-Szerda,Hajléktalan Szent Bertalan,Olajcsere,1,0,0,1,0,0,1,1,0,1
-Csütörtök,Hajléktalan Szent Bertalan,Olajcsere,0,0,0,0,0,1,0,1,0,1
-Péntek,Hajléktalan Szent Bertalan,Olajcsere,1,1,0,1,0,1,1,1,0,1
+Hétfő;Bognár Péter;elektronika;0110011100
+Kedd;Bognár Péter;elektronika;0111010100
+Péntek;Bognár Péter;elektronika;1110001100
+Hétfő;Kerekes László;olajcsere;0101011100
+Csütörtök;Kerekes László;olajcsere;0110101010
+Hétfő;Kósa András;futómű;0101101010
+Kedd;Kósa András;futómű;1010101010
+Szerda;Kósa András;futómű;1111010101
+Hétfő;Lakatos Anna;olajcsere;1010111001
+Kedd;Lakatos Anna;olajcsere;1100111001
+Péntek;Lakatos Anna;olajcsere;1100111001
+Szerda;Mészáros Tamás;kerékcsere;1001011001
+Csütörtök;Mészáros Tamás;kerékcsere;1000111001
+Hétfő;Pál Erika;kerékcsere;1100101010
+Csütörtök;Pál Erika;kerékcsere;1110101010
+Kedd;Rózsa Eszter;futómű;1110001101
+Szerda;Rózsa Eszter;futómű;0101011011
+Hétfő;Szabó Júlia;olajcsere;1011001010
+Péntek;Szabó Júlia;olajcsere;1010010110
+Hétfő;Tóth Gábor;futómű;0011010111
+Szerda;Tóth Gábor;futómű;0100101110
+Kedd;Varga Zoltán;elektronika;0011000001
+Péntek;Varga Zoltán;elektronika;0110110001
+Csütörtök;Varga Zoltán;elektronika;0110110001
+Szerda;Kerekes László;olajcsere;0101011100
+Péntek;Mészáros Tamás;kerékcsere;1011010111

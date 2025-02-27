@@ -10,20 +10,23 @@ namespace Munkabeosztas
     {
         public string munkakor {get; set;}
         public string szerelo_nev;
-        public List<bool> munka_ido { get; set; } 
+        public List<bool> munka_ido;
         public string munka_nap;
 
         
 
         public Munkabeosztas(string sor)
         {
-            string[] adatok = sor.Split(',');
+            string[] adatok = sor.Split(';');
             munkakor = adatok[2];
-            szerelo_nev = adatok[1];
-            munka_nap = adatok[0];
-            for (int i = 4; i < adatok.Length; i++)
+            szerelo_nev = adatok[0];
+            munka_nap = adatok[1];
+            munka_ido = new List<bool>();
+
+            string[] tomb = adatok[3].Split(',');
+            for (int i = 0; i < tomb.Length; i++)
             {
-                if (Convert.ToInt32(adatok[i]) == 1){ munka_ido.Add(false);}
+                if (Convert.ToInt32(tomb[i]) == 1){ munka_ido.Add(false);}
                 else { munka_ido.Add(true);}
             }
         }

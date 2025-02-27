@@ -16,6 +16,13 @@ namespace Munkabeosztas
         static void Main(string[] args)
         {
             fajlbe();
+            kiir();
+            munkalekeres();
+            munkakor();
+            lekeres();
+            foglalas();
+            osszesora();
+            
         }
         //c1
         private static void fajlbe()
@@ -28,6 +35,24 @@ namespace Munkabeosztas
                 lista.Add(s);
             }
             f.Close();
+        }
+
+        private static string Ora(int i)
+        {
+            string a = "";
+            for (int j = 0; j < lista[i].munka_ido.Count; j++)
+            {
+                a += lista[i].munka_ido[j] + " ";
+            }
+            return a;
+        }
+
+        private static void kiir()
+        {            
+            for (int i = 0; i < lista.Count; i++)
+            {
+                Console.WriteLine(lista[i].munka_nap+" "+ lista[i].szerelo_nev + " " + lista[i].munkakor + " " + Ora(i));
+            }
         }
         //c2
         private static List<Munkabeosztas> munkalekeres()
