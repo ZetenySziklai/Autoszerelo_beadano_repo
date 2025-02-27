@@ -5,3 +5,10 @@ H:\ZétényMátéBeadandóMegintxddd!!\Munkabeosztas\Munkabeosztas\bin\Debug\Mun
 H:\ZétényMátéBeadandóMegintxddd!!\Munkabeosztas\Munkabeosztas\bin\Debug\Munkabeosztas.pdb
 H:\ZétényMátéBeadandóMegintxddd!!\Munkabeosztas\Munkabeosztas\obj\Debug\Munkabeosztas.exe
 H:\ZétényMátéBeadandóMegintxddd!!\Munkabeosztas\Munkabeosztas\obj\Debug\Munkabeosztas.pdb
+H:\Autoszerelo_beadando\Munkabeosztas\Munkabeosztas\obj\Debug\Munkabeosztas.csproj.AssemblyReference.cache
+H:\Autoszerelo_beadando\Munkabeosztas\Munkabeosztas\obj\Debug\Munkabeosztas.csproj.CoreCompileInputs.cache
+H:\Autoszerelo_beadando\Munkabeosztas\Munkabeosztas\obj\Debug\Munkabeosztas.exe
+H:\Autoszerelo_beadando\Munkabeosztas\Munkabeosztas\obj\Debug\Munkabeosztas.pdb
+H:\Autoszerelo_beadando\Munkabeosztas\Munkabeosztas\bin\Debug\Munkabeosztas.exe.config
+H:\Autoszerelo_beadando\Munkabeosztas\Munkabeosztas\bin\Debug\Munkabeosztas.exe
+H:\Autoszerelo_beadando\Munkabeosztas\Munkabeosztas\bin\Debug\Munkabeosztas.pdb
